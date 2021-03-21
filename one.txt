@@ -3,3 +3,6 @@ first line of the code
 second line of the code
 
 Third line of code
+
+
+my logic
